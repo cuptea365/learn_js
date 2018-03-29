@@ -1,1 +1,2 @@
-alert("Hello");
+var name = 'sookie';
+alert(name);
